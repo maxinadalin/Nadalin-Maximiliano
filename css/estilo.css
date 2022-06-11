@@ -582,8 +582,7 @@ hr {
 
   .main_index .primer_imagen h2 {
     font-size: 25px;
-    margin: 10px;
-    background: transparent;
+   
   }
 
   .section1 .card {
@@ -680,14 +679,12 @@ hr {
   }
 
   .main_index .primer_imagen h1 {
-    font-size: 25px;
+    font-size: 22px;
 
   }
 
   .main_index .primer_imagen h2 {
-    font-size: 20px;
-    margin: 10px;
-    background: transparent;
+    font-size: 18px;
   }
 
   .contactanos h1 {
@@ -755,14 +752,20 @@ hr {
 
 @media (max-width: 421px) {
   .main_index .primer_imagen h1 {
-    font-size: 25px;
+    font-size: 17px;
+    
 
   }
 
   .main_index .primer_imagen h2 {
-    font-size: 20px;
-    margin: 10px;
-    background: transparent;
+    font-size: 15px;
+   
+  }
+  
+  
+  .main_index .primer_imagen p {
+    font-size: 11px;
+    
   }
 
   .contactanos h1 {
